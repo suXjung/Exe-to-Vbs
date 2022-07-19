@@ -12,7 +12,7 @@ Imports System.Windows.Forms
 
 
 '│ Author       : suXjung
-'│ Name         : Exe to Vbs + Crypter
+'│ Name         : Exe to Vbs
 '│ Tel          : @sujung02 
 
 'This program Is distributed For educational purposes only.
